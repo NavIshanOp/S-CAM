@@ -86,3 +86,4 @@ Connect the I2C LCD to the ESP32 as follows:
     ```
 
 **Whenever motion is detected by the PIR sensor, the camera starts recording and saves the video in a user-created recording folder..**
+*Make sure to create a folder called as recordings in the same place where your python file is located*
